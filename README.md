@@ -1,4 +1,4 @@
-# Analysis-on-API-Data-with-SQLalchemy-and-Flask
+# Analysis-on-Data-with-SQLalchemy-and-Flask
 
 Author: Alisha Coffey
 -------------
