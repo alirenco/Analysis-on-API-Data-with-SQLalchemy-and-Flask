@@ -3,7 +3,7 @@
 Author: Alisha Coffey
 -------------
 
-Anaylsis using Python to pull data from a sqlite file to perform analysis on th data using SQLalchemy, and to create an API using Flask.
+Anaylsis using Python to pull data from a sqlite file to perform data analysis using SQLalchemy, and to create an API using Flask.
 
 
 <b>/api/v1.0/precipitation</b>  -  Precipitation by date<br/>
